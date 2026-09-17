@@ -1,0 +1,20 @@
+summary_type,category,strategy,campaign_count,average_score,wins,win_rate_percent
+Overall,Variant A,Benefit-Focused,599,63.98,569,94.99
+Overall,Variant B,Action-Focused,599,14.57,30,5.01
+Overall,Tie,Equal,599,,0,0.0
+Overall Winner,A,Benefit-Focused,599,,569,94.99
+Objective,Cross-Sell,Benefit-Focused,368,,368,
+Objective,Engagement,Action-Focused,29,,29,
+Objective,Retention,Benefit-Focused,201,,201,
+Objective,Upsell,Action-Focused,1,,1,
+Product,Home Loan,Benefit-Focused,13,,13,
+Product,Mutual Fund Plan,Benefit-Focused,18,,18,
+Product,Mutual Fund Plan,Action-Focused,1,,1,
+Product,Personal Loan,Benefit-Focused,83,,83,
+Product,Personal Loan,Action-Focused,9,,9,
+Product,Premium Banking,Benefit-Focused,156,,156,
+Product,Premium Banking,Action-Focused,10,,10,
+Product,Rewards Credit Card,Benefit-Focused,202,,202,
+Product,Rewards Credit Card,Action-Focused,4,,4,
+Product,Term Insurance,Benefit-Focused,97,,97,
+Product,Term Insurance,Action-Focused,6,,6,

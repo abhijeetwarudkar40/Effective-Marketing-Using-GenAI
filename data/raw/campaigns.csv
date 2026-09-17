@@ -1,0 +1,9 @@
+campaign_id,campaign_name,campaign_type,start_date,end_date
+CAMP001,Premium Banking,Premium/High Value,2026-05-01,2026-05-31
+CAMP002,Investment Growth,Investment Opportunity,2026-05-15,2026-06-15
+CAMP003,Credit Card Rewards,Card Cross-Sell,2026-06-01,2026-06-30
+CAMP004,Personal Loan,Lending Opportunity,2026-06-15,2026-07-15
+CAMP005,Digital Banking,Digital Engagement,2026-07-01,2026-07-31
+CAMP006,Savings Growth,Deposit/Cross-Sell,2026-07-15,2026-08-15
+CAMP007,Customer Reactivation,Retention,2026-08-01,2026-08-20
+CAMP008,Protection Planning,Insurance,2026-08-01,2026-08-31

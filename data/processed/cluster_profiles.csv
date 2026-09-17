@@ -1,0 +1,5 @@
+cluster_id,annual_income,average_account_balance,monthly_spending,transaction_count,recency_days,digital_usage_score,products_held,product_categories_held,engagement_score,average_suitability_score,recommendation_acceptance_rate,debit_ratio,credit_ratio,spending_trend
+0,61633.67,308853.87,1843.36,9.1,162.2,0.27,1.43,1.37,0.3,0.34,0.28,0.73,0.27,-0.17
+1,70835.58,319564.71,2771.11,35.16,9.77,0.59,2.03,1.88,0.54,0.41,0.3,0.7,0.3,-0.0
+2,66006.1,263586.27,2135.35,14.38,65.23,0.33,1.62,1.44,0.35,0.36,0.25,0.71,0.29,-0.11
+3,173893.67,772845.69,8549.06,53.59,11.6,0.71,3.84,3.49,0.64,0.55,0.42,0.74,0.26,0.04

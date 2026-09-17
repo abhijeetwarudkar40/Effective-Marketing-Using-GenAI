@@ -1,0 +1,7 @@
+product_id,product_name,product_type,category,indicative_rate,minimum_value,priority
+P003,Rewards Credit Card,Credit Card,Cards,0.28,30000,2
+P004,Personal Loan,Loan,Lending,0.115,75000,3
+P005,Home Loan,Loan,Lending,0.082,500000,4
+P006,Mutual Fund Plan,Investment,Wealth,0.1,10000,3
+P007,Term Insurance,Insurance,Protection,0,500000,3
+P008,Premium Banking,Banking,Premium,0,1000000,5
